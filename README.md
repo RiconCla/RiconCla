@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cspirogone@yandex.ru**
 
-- ⚡ Fun fact **Очень хочется изучить fronend (JS,React, VUE)**
+- ⚡ Fun fact **очень хочется изучить frontend (JS,React, VUE)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
