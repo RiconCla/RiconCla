@@ -150,11 +150,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riconcla&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riconcla&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
