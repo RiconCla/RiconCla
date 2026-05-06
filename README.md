@@ -115,20 +115,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub статистика
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riconcla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="github-stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riconcla&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riconcla&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riconcla&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
