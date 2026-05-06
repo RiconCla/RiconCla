@@ -13,9 +13,7 @@
 
 - 💼 Разрабатываю масштабируемые SPA на **React + TypeScript** для бизнес-задач
 - 🏗 Проектирую архитектуру компонентов, переиспользуемые UI-киты и работаю с дизайн-системами в **Storybook**
-- ⚙️ Уверенно работаю с состоянием через **Redux Toolkit / RTK Query** и **Zustand**, строю интеграции с **REST API** и **WebSockets**
 - 🧪 Пишу тесты на **Jest + React Testing Library**, забочусь о качестве и читаемости кода
-- 📋 В команде работаю по Agile: **JIRA**, **Confluence**, code review, парное программирование
 - 📫 Связаться со мной: **cspirogone@yandex.ru**
 - 📂 Все проекты: [github.com/RiconCla](https://github.com/RiconCla?tab=repositories)
 
@@ -152,13 +150,6 @@
 </p>
 
 ---
-
-### 📊 GitHub статистика
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riconcla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="github-stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riconcla&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riconcla&theme=tokyonight" alt="streak" />
